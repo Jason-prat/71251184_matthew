@@ -6,7 +6,7 @@ for i in angka:
     except ValueError:
         print(f"{i}, bukan angka")
 if len(data)<3:
-    print("Jumlah data ne Kurang")
+    print("Jumlah data Kurang")
 else:
     angka=sorted(data)
     angka.reverse()
