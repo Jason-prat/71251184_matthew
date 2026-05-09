@@ -14,3 +14,4 @@ try:
 except:
     print("File tidak ditemukan")
 
+handle.close()
