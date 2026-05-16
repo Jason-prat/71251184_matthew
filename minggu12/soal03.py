@@ -13,5 +13,3 @@ try:
     print(emails)
 except:
     print("File tidak ditemukan")
-
-handle.close()
