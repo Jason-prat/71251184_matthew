@@ -1,0 +1,6 @@
+Kecerdasan buatan semakin berkembang pesat di era digital ini.
+Banyak aplikasi modern menggunakan algoritma canggih untuk memproses data secara otomatis.
+Developer di seluruh dunia berlomba menciptakan inovasi baru dalam dunia teknologi.
+Python menjadi salah satu bahasa pemrograman favorit karena mudah dan powerful.
+Data science membutuhkan kemampuan analisis yang kuat serta pemahaman statistik mendalam.
+ 
