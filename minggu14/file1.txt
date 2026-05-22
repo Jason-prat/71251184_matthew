@@ -1,0 +1,3 @@
+Python adalah bahasa pemrograman yang populer dan mudah dipelajari.
+Banyak developer menggunakan Python untuk data science dan machine learning.
+Python memiliki sintaks yang bersih dan mudah dibaca oleh semua orang.
